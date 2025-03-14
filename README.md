@@ -25,3 +25,29 @@ This is an improved version of the [LabelMe](https://github.com/wkentaro/labelme
 4. Launch the application:
    ```bash
    python __main__.py
+
+## Project Instruction
+```bash
+Labelme
+├── ai # label by deeplearning model
+│   ├── __init__.py
+│   ├── _utils.py
+│   ├── efficient.py
+│   ├── segment_anything_model.py
+├── cli 
+├── config
+├── icons # png for software
+├── translate # Chinese language
+├── utils 
+├── widgets
+├── __init__.py
+├── __main__.py
+├── optimizer
+├── app.py
+├── label_file.pyt
+├── logger.py
+├── param.py
+├── shape.py
+├── testing.py
+└── requirements.txt
+```
