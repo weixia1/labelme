@@ -1,4 +1,4 @@
-# LabelMe Improved
+# Labelme Improved
 
 This is an improved version of the [LabelMe](https://github.com/wkentaro/labelme) software. I have made several improvements to the original functionality, focusing on optimizing the annotation process, label copying, and keyboard shortcuts to make annotation tasks faster and more efficient.
 
