@@ -33,7 +33,7 @@ Labelme
 │   ├── __init__.py
 │   ├── _utils.py
 │   ├── efficient.py
-│   ├── segment_anything_model.py
+│   └── segment_anything_model.py
 ├── cli 
 ├── config
 ├── icons # png for software
